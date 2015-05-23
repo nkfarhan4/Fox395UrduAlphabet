@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-4bc41005eddf73259f378e845b31a4f677489331.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-158d34a19573a8c7dd75162859adf3fc4f130ed7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-08065dd8b245f9e5ffb904667548bd928a0e1f66.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-23bae7202f3de173e8f0ee9c01c9ce1b506c73e2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-88bb79fb9109b2424bef6de9ff06458745154d87.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-e64b4d6553a3636778b12467f46e673ac49da4ce.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-3eba3bddb456f6fa88bf81272b35d3e012155f47.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-bc53d2c8dcb5f75129f9e5bc6bda662a153b9bd2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-0a5645dc6e9d5f24aa3604ee9972b7bdf148f4bf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-cd441f36ddd760b0fdad52c0fe07561888995a35.jar" />
+    </item>
+    <item
+        jar="D:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-465b1b44bd99dc0679a2b5beab3148adfeaad686.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-321b9acbd9e1ff487d1efcc360b9e044f9b3af5a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-5e9a259d659478c9ba6686fe16df083779d0045a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-22f84994f66855a199583ecfe67076d65e17af49.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-35355f53354edaf730f929a1237b7a7fba751925.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-72f58f7652cdd78cc1f91463e7dfcfde10260e60.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-1e620c367be806e84603f0622eaf7f2612e50ef4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-a57f9625c40f1c907f931c90b24a1ce9844bcf9d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-c41f8fd5b27a6badfd35ff9742d99e38c44d246b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e8d6ad4b9ef26ff920f5dc11f0682a4ade5a4377.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-4e2fcdbd681d929886f67dda13b7c58c2015bd3d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\AndroidProjects\Urdu Alphabet Qaida_code\app\build\intermediates\pre-dexed\debug\classes-2c6857447ad3f858c92425059966c9b416ed6dd0.jar" />
+    </item>
+
+</items>
