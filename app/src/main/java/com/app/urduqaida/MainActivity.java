@@ -45,8 +45,26 @@ public class MainActivity extends Activity implements OnTouchListener , android.
 		// Request for Ads
 		adRequest = new com.google.android.gms.ads.AdRequest.Builder()
 				.build();
-
+		rel_ad.setVisibility(View.GONE);
 		// Load ads into Banner Ads
+		adView.setAdListener(new AdListener() {
+			@Override
+			public void onAdLoaded() {
+				super.onAdLoaded();
+				rel_ad.setVisibility(View.VISIBLE);
+			}
+
+			@Override
+			public void onAdOpened() {
+				super.onAdOpened();
+				rel_ad.setVisibility(View.VISIBLE);
+			}
+
+			@Override
+			public void onAdClosed() {
+				super.onAdClosed();
+			}
+		});
 		adView.loadAd(adRequest);
 
 		alertDialog = new AlertDialog.Builder(MainActivity.this);
@@ -420,7 +438,7 @@ public class MainActivity extends Activity implements OnTouchListener , android.
 		case R.id.imageViewNext:
 			maincounter +=1;
 
-			if(maincounter==6){
+			if(maincounter==15){
 				// Load ads into Interstitial Ads
 				interstitial.loadAd(adRequest);
 				// Prepare an Interstitial Ad Listener
@@ -446,7 +464,7 @@ public class MainActivity extends Activity implements OnTouchListener , android.
 		case R.id.imageViewPrev:
 			maincounter+=1;
 
-			if(maincounter==6){
+			if(maincounter==15){
 				// Load ads into Interstitial Ads
 				interstitial.loadAd(adRequest);
 				// Prepare an Interstitial Ad Listener
